@@ -46,8 +46,6 @@ Git: [Репозиторий](https://github.com/GERYON-TEAM/codestyling-configs
 
 [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/#summary)
 
-### Подключение 
-
 ### Структура коммита
 
 ```text
